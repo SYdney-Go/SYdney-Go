@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SYdney-Go
-- 👀 I’m interested in Biology and AI, espcially computer vision!
+- 👀 I’m interested in Biology and AI, especially computer vision!
 - 💞️ I’m looking to collaborate on bio-health data
 - 📫 Contact : ksy960809@gmail.com
 
