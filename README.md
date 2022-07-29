@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SYdney-Go
-- 👀 I’m interested in Biology and AI
-- 🌱 I’m currently learning Image analysis with CNN and OpenCV and GAN
+- 👀 I’m interested in Biology and AI, espcially computer vision!
 - 💞️ I’m looking to collaborate on bio-health data
-- 📫 How to reach me is secret
+- 📫 Contact : ksy960809@gmail.com
 
 <!---
 SYdney-Go/SYdney-Go is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
